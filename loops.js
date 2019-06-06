@@ -36,6 +36,10 @@ function doWhileLoop(nu) {
   let n = 12;
 }
 
+do {
+  console.log("doo-bee-doo-bee-doo");
+} 
+
 
 
 
