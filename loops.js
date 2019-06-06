@@ -52,7 +52,7 @@ function doWhileLoop(num) {
 }
 
  do {
-  console.log("I run once regardless.");
+  console.log("I ru n once regardless.");
 } while (incrementVariable() < num);
 
 }
