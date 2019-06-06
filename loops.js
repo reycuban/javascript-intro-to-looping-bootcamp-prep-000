@@ -32,6 +32,10 @@ function whileLoop(n) {
   }
 
 
+function doWhileLoop(nu) {
+  let n = 12;
+}
+
 
 
 
